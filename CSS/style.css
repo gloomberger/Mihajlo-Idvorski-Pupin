@@ -1,0 +1,32 @@
+body {
+     width: 960px;
+     margin: 20px auto;
+}
+header {
+    border-bottom: 1px solid gray;
+    padding: 8px 0 8px 0;
+}
+nav {
+    padding: 16px 0 16px 0;
+    border-bottom: 1px solid grey;
+}
+footer {
+    padding: 16px 0 16px 0;
+    border-top: 1px solid grey;
+}
+a {
+    margin-right: 6px;
+}
+section {
+    display: inline-block;
+    width: 600px;
+    padding: 0 8px 0 0;
+    margin-bottom: 8px;
+}
+aside {
+    display: inline-block;
+    width: 342px;
+    vertical-align: top;
+    padding: 0 0 0 8px;
+    border-left: 1px solid grey;
+}
