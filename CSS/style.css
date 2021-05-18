@@ -9,24 +9,29 @@ header {
 nav {
     padding: 16px 0 16px 0;
     border-bottom: 1px solid grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 footer {
     padding: 16px 0 16px 0;
     border-top: 1px solid grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 a {
     margin-right: 6px;
+    
 }
 section {
     display: inline-block;
     width: 600px;
     padding: 0 8px 0 0;
     margin-bottom: 8px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 aside {
     display: inline-block;
     width: 342px;
     vertical-align: top;
-    padding: 0 0 0 8px;
+    padding: 8px 0px 5px 8px;
     border-left: 1px solid grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
