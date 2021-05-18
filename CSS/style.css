@@ -1,21 +1,28 @@
 body {
      width: 960px;
      margin: 20px auto;
+     
 }
 header {
-    border-bottom: 1px solid gray;
+    border-bottom: 3px ridge gray;
     padding: 8px 0 8px 0;
+    background-color: silver;
+    border-radius: 10px 10px 0 0;
 }
 nav {
-    padding: 16px 0 16px 0;
-    border-bottom: 1px solid grey;
+    padding: 16px 0 16px 10px;
+    border-bottom: 3px ridge grey;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #dddddd;
 }
 footer {
     padding: 16px 0 16px 0;
-    border-top: 1px solid grey;
+    border-top: 3px groove grey;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    margin: 0;
+    text-align: center;
+    color: red;
+    background-color: silver;
+    border-radius: 0 0 10px 10px;
 }
 a {
     margin-right: 6px;
@@ -33,6 +40,11 @@ aside {
     width: 342px;
     vertical-align: top;
     padding: 8px 0px 3px 8px;
-    border-left: 1px solid grey;
+    border-left: 1px solid rgb(0, 0, 0);
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+    color: crimson;
+    background-color: #343638;
+    padding: auto;
 }
