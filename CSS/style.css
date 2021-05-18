@@ -15,6 +15,7 @@ footer {
     padding: 16px 0 16px 0;
     border-top: 1px solid grey;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
 }
 a {
     margin-right: 6px;
@@ -31,7 +32,7 @@ aside {
     display: inline-block;
     width: 342px;
     vertical-align: top;
-    padding: 8px 0px 5px 8px;
+    padding: 8px 0px 3px 8px;
     border-left: 1px solid grey;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
